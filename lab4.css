@@ -4,8 +4,9 @@ h1{
 
 .inside-box{
     border-style: solid;
-    border-color: grey;
-    border-width: 20px;
+    border-color: white;
+    border-width: 2px;
+    outline: 20px solid grey;
     margin-left: 500px;
 }
 
