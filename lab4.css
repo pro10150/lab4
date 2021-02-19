@@ -1,0 +1,35 @@
+h1{
+    height: 20px;
+}
+
+.inside-box{
+    border-style: solid;
+    border-color: grey;
+    border-width: 20px;
+    margin-left: 500px;
+}
+
+td{
+    width: 100px;
+    height: 100px;
+}
+tr{
+    border-style: solid;
+    border-color: white;
+    
+}
+.w{
+    background-color: white;
+}
+
+.b{
+    background-color: black;
+}
+
+.w.reverse{
+    background-color: black;
+}
+
+.b.reverse{
+    background-color: white;
+}
