@@ -4,9 +4,9 @@ h1{
 
 .inside-box{
     border-style: solid;
-    border-color: white;
+    border-color: #E9CBA7;
+    outline: 20px solid #363636;
     border-width: 2px;
-    outline: 20px solid grey;
     margin-left: 500px;
 }
 
@@ -14,23 +14,19 @@ td{
     width: 100px;
     height: 100px;
 }
-tr{
-    border-style: solid;
-    border-color: white;
-    
-}
+
 .w{
-    background-color: white;
+    background-color: #CA9E7B;
 }
 
 .b{
-    background-color: black;
+    background-color: #66462F;
 }
 
 .w.reverse{
-    background-color: black;
+    background-color: #66462F;
 }
 
 .b.reverse{
-    background-color: white;
+    background-color: #CA9E7B;
 }
